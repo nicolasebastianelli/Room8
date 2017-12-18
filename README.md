@@ -12,6 +12,6 @@ Room8 is for anyone who needs to share any kind of bills between several people.
 
 **Contributors:**
 
-[Filippo Serafini](https://github.com/filipposerafini)
+  * [Filippo Serafini](https://github.com/filipposerafini) 
 
-[Gloria Sammaritani](https://github.com/GloriaSam)
+  * [Gloria Sammaritani](https://github.com/GloriaSam)
